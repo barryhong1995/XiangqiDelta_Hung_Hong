@@ -1,0 +1,27 @@
+	 TODO Test Cases
+	 1. Test for factory
+	 2. Test for correct initial location of pieces (Red perspective)
+	 3. Test for correct initial location of pieces (Black perspective)
+	 4. Try to make valid move (Chariot)
+	 5. Try to make invalid move (Chariot)
+	 6. Try to make valid move (Elephant)
+	 7. Try to make invalid move (Elephant)
+	 8. Try to make valid move (Advisor)
+	 9. Try to make invalid move (Advisor)
+	 10. Try to make valid move (Soldier)
+	 11. Try to make invalid move (Soldier)
+	 12. Try to make valid move (General)
+	 13. Try to make invalid move (General)
+	 14. Try to make valid move (Horse)
+	 15. Try to make invalid move (Horse)
+	 16. Try to make valid move (Cannon)
+	 17. Try to make invalid move (Cannon)
+	 18. Try to make invalid move from square with no piece
+	 19. Try to make invalid move of using piece of wrong color
+	 20. Try to make invalid move using invalid coordinates
+	 21. Try to make invalid move when BLACK is currently being checked by RED
+	 22. Try to make invalid move when RED is currently being checked by BLACK
+	 23. Test for result decision (Generals are facing each other)
+	 24. Perpetual Check (RED loses by repetition)
+	 25. Perpetual Check (BLACK loses by repetition)
+	 26. Further check for check-mate condition
